@@ -1,2 +1,2 @@
-# MMBEETA
-MMBEETA: MindMinders Back End Engineer Technical Assessment
+# MBETA
+MBETA: MindMinders Back End Engineer Technical Assessment
